@@ -54,3 +54,9 @@ Qwen Image Edit LoRA (8-step lighting version)
 git clone https://github.com/YourUsername/comfyui-gradio-image-edit.git
 cd comfyui-gradio-image-edit
 
+
+## Application
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a15a8d4-260d-4805-8bea-e11202130326" width="350" title="Generated Image">
+</p>
+
