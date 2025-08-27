@@ -22,6 +22,18 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 - **Automatic Output Detection**: Returns the newest generated image after processing.
 
 ---
+## Application
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a15a8d4-260d-4805-8bea-e11202130326" width="350" title="Generated Image">
+</p>
+## 🚀 Getting Started
+
+# Video Explanation
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/52cd8e25-754e-4742-bd75-a95718341af5" width="600" title="Input Image">
+</p>
+
 
 ## 📂 Repository Structure
 ├── app.py # Main Gradio + ComfyUI integration code 
@@ -37,17 +49,7 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 
 ---
 
-## Application
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7a15a8d4-260d-4805-8bea-e11202130326" width="350" title="Generated Image">
-</p>
-## 🚀 Getting Started
 
-# Video Explanation
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/52cd8e25-754e-4742-bd75-a95718341af5" width="600" title="Input Image">
-</p>
 
 
 
