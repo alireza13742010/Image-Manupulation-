@@ -2,7 +2,7 @@
 
 This repository provides a **streamlined integration** between [ComfyUI](https://github.com/comfyanonymous/ComfyUI) and [Gradio](https://gradio.app/) to create an elegant **web-based interface** for image manipulation.
 
-The included Python script wraps the ComfyUI pipeline in a modern, user‑friendly Gradio front‑end — enabling you to control prompt text, sampling steps, CFG scale, and image inputs directly from your browser.
+The included Python script wraps the ComfyUI pipeline in a modern, user‑friendly Gradio front‑end  enabling you to control prompt text, sampling steps, CFG scale, and image inputs directly from your browser.
 
 ---
 
