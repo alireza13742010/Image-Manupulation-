@@ -26,7 +26,6 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7a15a8d4-260d-4805-8bea-e11202130326" width="350" title="Generated Image">
 </p>
-## 🚀 Getting Started
 
 # Video Explanation
 
@@ -52,7 +51,7 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 
 
 
-
+## 🚀 Getting Started
 ### 1️⃣ Prerequisites
 - Python 3.9+
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) installed and configured
