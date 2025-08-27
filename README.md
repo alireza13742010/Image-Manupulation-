@@ -26,8 +26,14 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 ## 📂 Repository Structure
 .
 ├── app.py # Main Gradio + ComfyUI integration code 
+
+
 ├── Image Editing Qwen (1).json # ComfyUI workflow JSON file 
+
+
 ├── input/ # Uploaded images (auto-created) 
+
+
 ├── output/ # Generated images from ComfyUI 
 
 ---
