@@ -43,6 +43,8 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 </p>
 ## 🚀 Getting Started
 
+
+
 ### 1️⃣ Prerequisites
 - Python 3.9+
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) installed and configured
