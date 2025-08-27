@@ -24,7 +24,6 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 ---
 
 ## 📂 Repository Structure
-.
 ├── app.py # Main Gradio + ComfyUI integration code 
 
 
