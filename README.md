@@ -43,6 +43,12 @@ The included Python script wraps the ComfyUI pipeline in a modern, user‑friend
 </p>
 ## 🚀 Getting Started
 
+# Video Explanation
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/52cd8e25-754e-4742-bd75-a95718341af5" width="600" title="Input Image">
+</p>
+
 
 
 ### 1️⃣ Prerequisites
